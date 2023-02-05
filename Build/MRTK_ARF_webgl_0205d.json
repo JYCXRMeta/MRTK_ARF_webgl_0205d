@@ -1,0 +1,16 @@
+{
+"companyName": "JYC",
+"productName": "MRTK_ARF_webgl_0205d",
+"productVersion": "0.1",
+"dataUrl": "MRTK_ARF_webgl_0205d.data.unityweb",
+"wasmCodeUrl": "MRTK_ARF_webgl_0205d.wasm.code.unityweb",
+"wasmFrameworkUrl": "MRTK_ARF_webgl_0205d.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.24f1"
+}
